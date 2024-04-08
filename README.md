@@ -1,3 +1,6 @@
+## Fork explanation
+This fork was created to modify the crkbd's connection so it uses USB-C instead of TRRS
+
 # Corne keyboard
 
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
